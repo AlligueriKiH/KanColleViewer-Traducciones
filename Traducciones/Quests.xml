@@ -402,9 +402,9 @@
   <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Daily Sortie 1</TR-Name>
+    <TR-Name>Misión Diaria 1</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat an enemy fleet.</TR-Detail>
+    <TR-Detail>Derrota a una flota enemiga. </TR-Detail>
   </Quest>
   <Quest>
     <ID>202</ID>
@@ -465,30 +465,30 @@
   <Quest>
     <ID>210</ID>
     <JP-Name>敵艦隊を10回邀撃せよ！</JP-Name>
-    <TR-Name>Daily Sortie 3</TR-Name>
+    <TR-Name>Misión Diaria 3</TR-Name>
     <JP-Detail>艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！</JP-Detail>
-    <TR-Detail>Defeat 10 enemy fleets.</TR-Detail>
+    <TR-Detail>Derrota 10 flotas enemigas.</TR-Detail>
   </Quest>
   <Quest>
     <ID>211</ID>
     <JP-Name>敵空母を３隻撃沈せよ！</JP-Name>
-    <TR-Name>Daily Sortie 4</TR-Name>
+    <TR-Name>Misión Diaria 4</TR-Name>
     <JP-Detail>艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！</JP-Detail>
-    <TR-Detail>Sink 3 enemy aircraft carriers.</TR-Detail>
+    <TR-Detail>Hunde 3 Portaaviones enemigos (Portaaviones ligeros tambien cuentan).</TR-Detail>
   </Quest>
   <Quest>
     <ID>212</ID>
     <JP-Name>敵輸送船団を叩け！</JP-Name>
-    <TR-Name>Daily Sortie 6</TR-Name>
+    <TR-Name>Misión Diaria 6</TR-Name>
     <JP-Detail>敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>Sink 5 enemy transport ships.</TR-Detail>
+    <TR-Detail>Hunde 5 barcos de transporte.</TR-Detail>
   </Quest>
   <Quest>
     <ID>213</ID>
     <JP-Name>海上通商破壊作戦</JP-Name>
-    <TR-Name>Weekly Sortie 3</TR-Name>
+    <TR-Name>Misión Semanal 3</TR-Name>
     <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
-    <TR-Detail>Sink 20 transport ships.</TR-Detail>
+    <TR-Detail>Hunde 20 barcos de transporte.</TR-Detail>
   </Quest>
   <Quest>
     <ID>214</ID>
@@ -507,9 +507,9 @@
   <Quest>
     <ID>216</ID>
     <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Daily Sortie 2</TR-Name>
+    <TR-Name>Misión Diaria 2</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat the flagship of an enemy fleet.</TR-Detail>
+    <TR-Detail>Derrota al barco insignia de una flota enemiga.</TR-Detail>
   </Quest>
   <Quest>
     <ID>217</ID>
@@ -521,9 +521,9 @@
   <Quest>
     <ID>218</ID>
     <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
-    <TR-Name>Daily Sortie 5</TR-Name>
+    <TR-Name>Misión Diaria 5</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 3 enemy transport ships.</TR-Detail>
+    <TR-Detail>Hunde 3 barcos de transporte.</TR-Detail>
   </Quest>
   <Quest>
     <ID>219</ID>
@@ -535,16 +535,16 @@
   <Quest>
     <ID>220</ID>
     <JP-Name>い号作戦</JP-Name>
-    <TR-Name>Weekly Sortie 2</TR-Name>
+    <TR-Name>Misión Semanal 2</TR-Name>
     <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 20 aircraft carriers.</TR-Detail>
+    <TR-Detail>Hunde 20 portaaviones</TR-Detail>
   </Quest>
   <Quest>
     <ID>221</ID>
     <JP-Name>ろ号作戦</JP-Name>
-    <TR-Name>Weekly Sortie 4</TR-Name>
+    <TR-Name>Misión Semanal 4</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>Sink 50 transport ships.</TR-Detail>
+    <TR-Detail>Hunde 50 barcos de transporte</TR-Detail>
   </Quest>
   <Quest>
     <ID>222</ID>
@@ -719,7 +719,7 @@
     <JP-Name>精鋭「第二航空戦隊」抜錨せよ！</JP-Name>
     <TR-Name>Despliega la 2da División de Portaaviones de Elite</TR-Name>
     <JP-Detail>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</JP-Detail>
-    <TR-Detail>Manda a Souryuu Kai2 (蒼龍改二) como líder, Hiryuu Kai2 (飛龍改二) y 2 Destructores al mapa 4-3. Puedes añadir 2 barcos más. Obten una victoria de rango S contra el Jefe.</TR-Detail>
+    <TR-Detail>Envia a Souryuu Kai2 (蒼龍改二) como líder, Hiryuu Kai2 (飛龍改二) y 2 Destructores al mapa 4-3. Puedes añadir 2 barcos más. Obten una victoria de rango S contra el Jefe.</TR-Detail>
   </Quest>
   <Quest>
     <ID>252</ID>
@@ -997,30 +997,30 @@
   <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
-    <TR-Name>First Expedition</TR-Name>
+    <TR-Name>Primera Expedición</TR-Name>
     <JP-Detail>艦隊を「遠征」に出発させよう！</JP-Detail>
-    <TR-Detail>Perform an expedition.</TR-Detail>
+    <TR-Detail>Termina una expedición.</TR-Detail>
   </Quest>
   <Quest>
     <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
-    <TR-Name>Daily Expeditions 1</TR-Name>
+    <TR-Name>Expedición Diaria 1</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 3 successful expeditions within the same day.</TR-Detail>
+    <TR-Detail>Termina 3 expediciones exitosas en el mismo día.</TR-Detail>
   </Quest>
   <Quest>
     <ID>403</ID>
     <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
-    <TR-Name>Daily Expeditions 2</TR-Name>
+    <TR-Name>Expedición Diaria 2</TR-Name>
     <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 10 successful expeditions within the same day.</TR-Detail>
+    <TR-Detail>Termina 10 expediciones exitosas en el mismo día.</TR-Detail>
   </Quest>
   <Quest>
     <ID>404</ID>
     <JP-Name>大規模遠征作戦、発令！</JP-Name>
-    <TR-Name>Weekly Expeditions</TR-Name>
+    <TR-Name>Expedición Semanal 1</TR-Name>
     <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 30 successful expeditions within the same week.</TR-Detail>
+    <TR-Detail>Termina 30 expediciones exitosas en la misma semana.</TR-Detail>
   </Quest>
   <Quest>
     <ID>405</ID>
