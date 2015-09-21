@@ -3,16 +3,16 @@
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
-    <TR-Name>¡Primera Formación!</TR-Name>
+    <TR-Name>[A1] ¡La primera formación!</TR-Name>
     <JP-Detail>２隻以上の艦で構成される「艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Ten 2 barcos en tu flota principal.</TR-Detail>
+    <TR-Detail>Ten dos barcos en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
     <ID>102</ID>
     <JP-Name>「駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>Form a Destroyer Squadron!</TR-Name>
+    <TR-Name>[A2] ¡Forma un escuadrón de destructores!</TR-Name>
     <JP-Detail>駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have 4 DD in your main fleet.</TR-Detail>
+    <TR-Detail>Ten 4 DD en tu flota principal.</TR-Detail>
   </Quest>
   <Quest>
     <ID>103</ID>
@@ -402,9 +402,9 @@
   <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Misión Diaria 1</TR-Name>
+    <TR-Name>[BD1] Incursión Diaria 1</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Derrota a una flota enemiga. </TR-Detail>
+    <TR-Detail>Derrota una flota enemiga.</TR-Detail>
   </Quest>
   <Quest>
     <ID>202</ID>
@@ -486,16 +486,16 @@
   <Quest>
     <ID>213</ID>
     <JP-Name>海上通商破壊作戦</JP-Name>
-    <TR-Name>Misión Semanal 3</TR-Name>
+    <TR-Name>[BW3] Incursión Semanal 3</TR-Name>
     <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
     <TR-Detail>Hunde 20 barcos de transporte.</TR-Detail>
   </Quest>
   <Quest>
     <ID>214</ID>
     <JP-Name>あ号作戦</JP-Name>
-    <TR-Name>Weekly Sortie 1</TR-Name>
+    <TR-Name>[BW1] Incursión Semanal 1</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
-    <TR-Detail>Deploy your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S rank victories.</TR-Detail>
+    <TR-Detail>Despliega tu flota 36 veces, encuentra 24 jefes, derrota 12 jefes y obten 6 victorias rango S  como resultado.</TR-Detail>
   </Quest>
   <Quest>
     <ID>215</ID>
@@ -507,9 +507,9 @@
   <Quest>
     <ID>216</ID>
     <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Misión Diaria 2</TR-Name>
+    <TR-Name>[BD2] Incursión Diaria 2</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Derrota al barco insignia de una flota enemiga.</TR-Detail>
+    <TR-Detail>Hunde al barco insignia de una flota enemiga.</TR-Detail>
   </Quest>
   <Quest>
     <ID>217</ID>
@@ -535,9 +535,9 @@
   <Quest>
     <ID>220</ID>
     <JP-Name>い号作戦</JP-Name>
-    <TR-Name>Misión Semanal 2</TR-Name>
+    <TR-Name>[BW2] Incursión Semanal 2</TR-Name>
     <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
-    <TR-Detail>Hunde 20 portaaviones</TR-Detail>
+    <TR-Detail>Hunde 20 portaaviones enemigos.</TR-Detail>
   </Quest>
   <Quest>
     <ID>221</ID>
@@ -577,9 +577,9 @@
   <Quest>
     <ID>226</ID>
     <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
-    <TR-Name>Daily Sortie 7</TR-Name>
+    <TR-Name>Incursión Diaria 7</TR-Name>
     <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 5 bosses in World 2.</TR-Detail>
+    <TR-Detail>Derrota 5 jefes en el Mundo 2.</TR-Detail>
   </Quest>
   <Quest>
     <ID>227</ID>
