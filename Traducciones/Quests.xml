@@ -479,9 +479,9 @@
   <Quest>
     <ID>212</ID>
     <JP-Name>敵輸送船団を叩け！</JP-Name>
-    <TR-Name>Misión Diaria 6</TR-Name>
+    <TR-Name>[BD6] Incursión Diaria 6</TR-Name>
     <JP-Detail>敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>Hunde 5 barcos de transporte.</TR-Detail>
+    <TR-Detail>Hunde 5 barcos de transporte enemigos.</TR-Detail>
   </Quest>
   <Quest>
     <ID>213</ID>
@@ -1018,9 +1018,9 @@
   <Quest>
     <ID>404</ID>
     <JP-Name>大規模遠征作戦、発令！</JP-Name>
-    <TR-Name>Expedición Semanal 1</TR-Name>
+    <TR-Name>[D4] Expediciones semanales</TR-Name>
     <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
-    <TR-Detail>Termina 30 expediciones exitosas en la misma semana.</TR-Detail>
+    <TR-Detail>Realiza con éxito 30 expediciones durante la misma semana.</TR-Detail>
   </Quest>
   <Quest>
     <ID>405</ID>
