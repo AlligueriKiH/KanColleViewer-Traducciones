@@ -1387,4 +1387,25 @@
     <JP-Detail>不要な装備を複数「廃棄」して、新装備受け入れのため「工廠」倉庫の整理を進めましょう！</JP-Detail>
     <TR-Detail>Scrap Equipment 5 times.</TR-Detail>
   </Quest>
+    <Quest>
+    <ID>285</ID>
+    <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
+    <TR-Name>「空母機動部隊」北方海域に進出せよ！</TR-Name>
+    <JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
+    <TR-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>161</ID>
+    <JP-Name>「第五航空戦隊」を再編成せよ！</JP-Name>
+    <TR-Name>¡Reorganiza la 5ta División de Portaaviones!</TR-Name>
+    <JP-Detail>「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！</JP-Detail>
+    <TR-Detail>Ten a Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧) y Akigumo (秋雲) en tu flota principal.</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>163</ID>
+    <JP-Name>「第十六戦隊(第一次)」を編成せよ！</JP-Name>
+    <TR-Name>Forma el 16vo escuadrón (Primera Generación)</TR-Name>
+    <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>	
+    <TR-Detail>Ten a Ashigara (足柄) como barco insignia junto con Tama (多摩) y Nagara (長良) en tu flota principal.</TR-Detail>
+  </Quest>
 </Quests>
